@@ -1,0 +1,6 @@
+installare TinyCore 4.7.7
+durante l'installazione scrivere le direttive 
+	home=sda1 opt=sda1
+	
+scegliere come modalità di installazione quella testuale
+installare lynx (tce-load -wi lynx) e apache2-mod-php5
